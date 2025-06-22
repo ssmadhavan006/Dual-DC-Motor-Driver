@@ -1,0 +1,11 @@
+Components used:
+
+| Qty | Component                     | Notes                               |
+|-----|-------------------------------|-------------------------------------|
+| 1   | Arduino Uno (or compatible)   | Microcontroller board               |
+| 1   | L293D Motor Driver IC         | Dual H-Bridge motor driver          |
+| 2   | DC Gear Motors (TT-style)     | 3–6V motors recommended             |
+| 1   | Breadboard                    | For prototyping                     |
+| 1   | 4× AA Battery Pack (6V)       | Powers the motors only              |
+| 1   | USB Cable                     | Powers the Arduino and uploads code |
+| —   | Jumper Wires (Male–Male)      | For circuit connections             |
